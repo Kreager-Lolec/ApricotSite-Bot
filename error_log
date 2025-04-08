@@ -1,0 +1,147 @@
+[05-Mar-2025 19:13:18 UTC] PHP Warning:  require(/home3/coolpric/apricot.coolprices.store/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:13:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/coolpric/apricot.coolprices.store/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home3/coolpric/apricot.coolprices.store/action.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:16:36 UTC] PHP Warning:  require(/home3/coolpric/apricot.coolprices.store/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:16:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/coolpric/apricot.coolprices.store/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home3/coolpric/apricot.coolprices.store/action.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:18:44 UTC] PHP Warning:  require(/home3/coolpric/apricot.coolprices.store/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:18:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/coolpric/apricot.coolprices.store/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home3/coolpric/apricot.coolprices.store/action.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:21:23 UTC] PHP Warning:  require(/home3/coolpric/apricot.coolprices.store/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:21:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/coolpric/apricot.coolprices.store/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home3/coolpric/apricot.coolprices.store/action.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:23:07 UTC] PHP Warning:  require_once(/home3/coolpric/apricot.coolprices.store/composer/autoload_real.php): Failed to open stream: No such file or directory in /home3/coolpric/apricot.coolprices.store/autoload.php on line 23
+[05-Mar-2025 19:23:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/coolpric/apricot.coolprices.store/composer/autoload_real.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home3/coolpric/apricot.coolprices.store/autoload.php:23
+Stack trace:
+#0 /home3/coolpric/apricot.coolprices.store/action.php(11): require()
+#1 {main}
+  thrown in /home3/coolpric/apricot.coolprices.store/autoload.php on line 23
+[05-Mar-2025 19:23:31 UTC] PHP Warning:  require_once(/home3/coolpric/apricot.coolprices.store/composer/autoload_real.php): Failed to open stream: No such file or directory in /home3/coolpric/apricot.coolprices.store/autoload.php on line 23
+[05-Mar-2025 19:23:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/coolpric/apricot.coolprices.store/composer/autoload_real.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home3/coolpric/apricot.coolprices.store/autoload.php:23
+Stack trace:
+#0 /home3/coolpric/apricot.coolprices.store/action.php(11): require()
+#1 {main}
+  thrown in /home3/coolpric/apricot.coolprices.store/autoload.php on line 23
+[05-Mar-2025 19:25:09 UTC] PHP Warning:  require(/home3/coolpric/apricot.coolprices.storeautoload.php): Failed to open stream: No such file or directory in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:25:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/coolpric/apricot.coolprices.storeautoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home3/coolpric/apricot.coolprices.store/action.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:27:37 UTC] PHP Warning:  require(/home3/coolpric/apricot.coolprices.storeautoload.php): Failed to open stream: No such file or directory in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:27:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/coolpric/apricot.coolprices.storeautoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home3/coolpric/apricot.coolprices.store/action.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:50:57 UTC] PHP Warning:  require(/home3/coolpric/apricot.coolprices.store/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 19:50:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/coolpric/apricot.coolprices.store/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home3/coolpric/apricot.coolprices.store/action.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/coolpric/apricot.coolprices.store/action.php on line 11
+[05-Mar-2025 21:58:34 Europe/Kyiv] PHP Warning:  Undefined variable $telegramMessage in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 21:58:34 Europe/Kyiv] PHP Warning:  Undefined variable $telegramToken in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 21:58:34 Europe/Kyiv] PHP Warning:  Undefined variable $chatId in /home3/coolpric/apricot.coolprices.store/action.php on line 37
+[05-Mar-2025 21:58:34 Europe/Kyiv] PHP Warning:  file_get_contents(https://api.telegram.org/bot7903593746:AAHOlT-jk5txjPVY20M0bJ5rNc2OdxHJhgY/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/coolpric/apricot.coolprices.store/action.php on line 51
+[05-Mar-2025 21:58:34 Europe/Kyiv] PHP Warning:  Undefined variable $telegramMessage in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 21:58:34 Europe/Kyiv] PHP Warning:  Undefined variable $telegramToken in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 21:58:34 Europe/Kyiv] PHP Warning:  Undefined variable $chatId in /home3/coolpric/apricot.coolprices.store/action.php on line 37
+[05-Mar-2025 21:58:34 Europe/Kyiv] PHP Warning:  file_get_contents(https://api.telegram.org/bot7903593746:AAHOlT-jk5txjPVY20M0bJ5rNc2OdxHJhgY/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/coolpric/apricot.coolprices.store/action.php on line 51
+[05-Mar-2025 21:58:34 Europe/Kyiv] PHP Warning:  Undefined variable $chatId in /home3/coolpric/apricot.coolprices.store/action.php on line 37
+[05-Mar-2025 21:58:35 Europe/Kyiv] PHP Warning:  file_get_contents(https://api.telegram.org/bot7903593746:AAHOlT-jk5txjPVY20M0bJ5rNc2OdxHJhgY/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/coolpric/apricot.coolprices.store/action.php on line 51
+[05-Mar-2025 21:58:51 Europe/Kyiv] PHP Warning:  Undefined variable $telegramMessage in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 21:58:51 Europe/Kyiv] PHP Warning:  Undefined variable $telegramToken in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 21:58:51 Europe/Kyiv] PHP Warning:  Undefined variable $chatId in /home3/coolpric/apricot.coolprices.store/action.php on line 37
+[05-Mar-2025 21:58:51 Europe/Kyiv] PHP Warning:  file_get_contents(https://api.telegram.org/bot7903593746:AAHOlT-jk5txjPVY20M0bJ5rNc2OdxHJhgY/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/coolpric/apricot.coolprices.store/action.php on line 51
+[05-Mar-2025 21:58:51 Europe/Kyiv] PHP Warning:  Undefined variable $telegramMessage in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 21:58:51 Europe/Kyiv] PHP Warning:  Undefined variable $telegramToken in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 21:58:51 Europe/Kyiv] PHP Warning:  Undefined variable $chatId in /home3/coolpric/apricot.coolprices.store/action.php on line 37
+[05-Mar-2025 21:58:51 Europe/Kyiv] PHP Warning:  file_get_contents(https://api.telegram.org/bot7903593746:AAHOlT-jk5txjPVY20M0bJ5rNc2OdxHJhgY/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/coolpric/apricot.coolprices.store/action.php on line 51
+[05-Mar-2025 21:58:51 Europe/Kyiv] PHP Warning:  Undefined variable $chatId in /home3/coolpric/apricot.coolprices.store/action.php on line 37
+[05-Mar-2025 21:58:51 Europe/Kyiv] PHP Warning:  file_get_contents(https://api.telegram.org/bot7903593746:AAHOlT-jk5txjPVY20M0bJ5rNc2OdxHJhgY/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/coolpric/apricot.coolprices.store/action.php on line 51
+[05-Mar-2025 22:00:20 Europe/Kyiv] PHP Warning:  Undefined variable $telegramMessage in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 22:00:20 Europe/Kyiv] PHP Warning:  Undefined variable $telegramToken in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 22:00:20 Europe/Kyiv] PHP Warning:  Undefined variable $chatId in /home3/coolpric/apricot.coolprices.store/action.php on line 37
+[05-Mar-2025 22:00:20 Europe/Kyiv] PHP Warning:  file_get_contents(https://api.telegram.org/bot7903593746:AAHOlT-jk5txjPVY20M0bJ5rNc2OdxHJhgY/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/coolpric/apricot.coolprices.store/action.php on line 51
+[05-Mar-2025 22:00:20 Europe/Kyiv] PHP Warning:  Undefined variable $telegramMessage in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 22:00:20 Europe/Kyiv] PHP Warning:  Undefined variable $telegramToken in /home3/coolpric/apricot.coolprices.store/action.php on line 27
+[05-Mar-2025 22:00:20 Europe/Kyiv] PHP Warning:  Undefined variable $chatId in /home3/coolpric/apricot.coolprices.store/action.php on line 37
+[05-Mar-2025 22:00:20 Europe/Kyiv] PHP Warning:  file_get_contents(https://api.telegram.org/bot7903593746:AAHOlT-jk5txjPVY20M0bJ5rNc2OdxHJhgY/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/coolpric/apricot.coolprices.store/action.php on line 51
+[05-Mar-2025 22:00:20 Europe/Kyiv] PHP Warning:  Undefined variable $chatId in /home3/coolpric/apricot.coolprices.store/action.php on line 37
+[05-Mar-2025 22:00:20 Europe/Kyiv] PHP Warning:  file_get_contents(https://api.telegram.org/bot7903593746:AAHOlT-jk5txjPVY20M0bJ5rNc2OdxHJhgY/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/coolpric/apricot.coolprices.store/action.php on line 51
+[05-Mar-2025 22:05:50 Europe/Kyiv] PHP Warning:  Undefined variable $productQuantity in /home3/coolpric/apricot.coolprices.store/action.php on line 113
+[05-Mar-2025 22:05:51 Europe/Kyiv] PHP Warning:  Undefined variable $productQuantity in /home3/coolpric/apricot.coolprices.store/action.php on line 146
+[05-Mar-2025 22:05:51 Europe/Kyiv] Помилка додавання даних: {
+  "error": {
+    "code": 400,
+    "message": "Invalid JSON payload received. Unknown name \"0\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"1\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"2\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"3\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"4\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"6\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"7\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"8\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"9\" at 'data.values[0]': Cannot find field.",
+    "errors": [
+      {
+        "message": "Invalid JSON payload received. Unknown name \"0\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"1\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"2\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"3\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"4\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"6\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"7\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"8\" at 'data.values[0]': Cannot find field.\nInvalid JSON payload received. Unknown name \"9\" at 'data.values[0]': Cannot find field.",
+        "reason": "invalid"
+      }
+    ],
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"0\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"1\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"2\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"3\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"4\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"6\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"7\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"8\" at 'data.values[0]': Cannot find field."
+          },
+          {
+            "field": "data.values[0]",
+            "description": "Invalid JSON payload received. Unknown name \"9\" at 'data.values[0]': Cannot find field."
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[05-Mar-2025 20:20:29 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home3/coolpric/apricot.coolprices.store/order.php on line 8
+[05-Mar-2025 20:22:54 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home3/coolpric/apricot.coolprices.store/order.php on line 8
